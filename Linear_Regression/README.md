@@ -18,16 +18,16 @@ Linear Regression is widely used in statistics and machine learning for regressi
 ## Mathematical Foundation :
 ### Linear line equation :
 The line that best represents the relationship between the variables.Below is the equation  
-**Y = mX + c** ... for simple linear regression
-**Y = w1X1 + w2X2 + ...wnXn + b** ... for multiple linear regression
-or 
-![alt text](image.png)
+            **Y = mX + c** ... for simple linear regression
+            **Y = w1X1 + w2X2 + ...wnXn + b** ... for multiple linear regression
+            or 
+            ![alt text](image.png)
 
 Where,
-Y = Target Feature (Dependent Variable)
-X = Input Feature (Independent Variable) 
-m, w1,w2,..wn, theta1 theta2 = Coefficients (Weights)
-c,b,theta0 = Intercepts (Bias)
+    Y = Target Feature (Dependent Variable)
+    X = Input Feature (Independent Variable) 
+    m, w1,w2,..wn, theta1 theta2 = Coefficients (Weights)
+    c,b,theta0 = Intercepts (Bias)
 
 The goal of Linear Regression is to find the best values for **m** (or w) and **c** such that the difference between actual and predicted values is minimized.
 
