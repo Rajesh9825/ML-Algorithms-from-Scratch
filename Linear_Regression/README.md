@@ -23,8 +23,9 @@ The line that best represents the relationship between the variables.Below is th
 
 **Y = w1X1 + w2X2 + ...wnXn + b** ... for multiple linear regression
 
-            or 
-            ![alt text](image.png)
+or 
+
+![alt text](image.png)
 
 Where,
     Y = Target Feature (Dependent Variable)
